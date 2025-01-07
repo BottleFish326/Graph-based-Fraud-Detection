@@ -6,7 +6,7 @@ The implementation includes preprocessing transaction data, building a graph fro
 ## Directory Structure
 
 The project directory is organized as follows:
-
+```
 ├───dataset
 │       card_feature.csv
 │       mechant_feature.csv
@@ -26,7 +26,7 @@ The project directory is organized as follows:
 train.py
 train_small.py
 generate.py
-
+```
 ### Dataset
 
 - **card_feature.csv**: Preprocessed features for each card, it will be generated itself when running the code.
